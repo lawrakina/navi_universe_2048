@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712097774453",
+    "project_id": "navyspade-universe2048",
+    "storage_bucket": "navyspade-universe2048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712097774453:android:f5ef934a451df71403713c",
+        "android_client_info": {
+          "package_name": "com.NavySpade.Universe2048"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712097774453-v9n29c41964oqopvbsiqvahrvq9h2agh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvewgwKOPp2BtD70D1iM-5P-JbbbSMop0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712097774453-v9n29c41964oqopvbsiqvahrvq9h2agh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

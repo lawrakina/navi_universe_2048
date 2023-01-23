@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97dee8b5f8b44d6597c31608d2fdc0d9, type: 3}
+  m_Name: CubesSettings
+  m_EditorClassIdentifier: 
+  <CubeView>k__BackingField: {fileID: 5900055915540418950, guid: f311fce9e68c4af4da3981a104bb5cad, type: 3}
+  <SpeedMovingCubes>k__BackingField: 1
+  <CubeVariants>k__BackingField:
+  - <Color>k__BackingField: {r: 1, g: 0, b: 0, a: 1}
+    <Value>k__BackingField: 2
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 71c5a4e77c276ef449fd3116ffa50b80, type: 3}
+  - <Color>k__BackingField: {r: 0.990566, g: 0.91607016, b: 0.3121217, a: 1}
+    <Value>k__BackingField: 4
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 2a129d96ef6759845b3a148706b2065f, type: 3}
+  - <Color>k__BackingField: {r: 0.644265, g: 0.9716981, b: 0.2970096, a: 1}
+    <Value>k__BackingField: 8
+    <Sprite>k__BackingField: {fileID: 21300000, guid: af90334bf3361d24bae9f2c5fafb3f6e, type: 3}
+  - <Color>k__BackingField: {r: 0, g: 0.61128855, b: 1, a: 1}
+    <Value>k__BackingField: 16
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 4dfbd899628d27a4b91ad380b94986ee, type: 3}
+  - <Color>k__BackingField: {r: 0.6132076, g: 0.30310538, b: 0.2684229, a: 1}
+    <Value>k__BackingField: 32
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 36acddbd003f66b4c8afe055de85c619, type: 3}
+  - <Color>k__BackingField: {r: 1, g: 0, b: 0.87176275, a: 1}
+    <Value>k__BackingField: 64
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 419261c041550ba48bdc0e7f85f80135, type: 3}
+  - <Color>k__BackingField: {r: 0.015735103, g: 0.49056602, b: 0.20752956, a: 1}
+    <Value>k__BackingField: 128
+    <Sprite>k__BackingField: {fileID: 21300000, guid: b30dd360b0dc4784186b726764699fb0, type: 3}
+  - <Color>k__BackingField: {r: 0, g: 1, b: 1, a: 1}
+    <Value>k__BackingField: 256
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 8f368c0a35c677f4b8cf89e3d8779c05, type: 3}
+  - <Color>k__BackingField: {r: 0.3679245, g: 0, b: 0, a: 1}
+    <Value>k__BackingField: 512
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 3190053ac9c69fc45a369d2f16ac2521, type: 3}
+  - <Color>k__BackingField: {r: 0.005737701, g: 0, b: 0.2830189, a: 1}
+    <Value>k__BackingField: 1024
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 912262a48c3c1f74180e2399b0ccbc0c, type: 3}
+  - <Color>k__BackingField: {r: 0.3490566, g: 0, b: 0.29109028, a: 1}
+    <Value>k__BackingField: 2048
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 41f44b34aaef0394d852d7f9679ed53a, type: 3}
+  - <Color>k__BackingField: {r: 1, g: 0.54640484, b: 0, a: 1}
+    <Value>k__BackingField: 4096
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 7f307d9fbee56c541995a007d29c8283, type: 3}
+  - <Color>k__BackingField: {r: 0.4339623, g: 0.4339623, b: 0.4339623, a: 1}
+    <Value>k__BackingField: 8192
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 77d7752d7fd036d4e86b7ab177a87c07, type: 3}
+  - <Color>k__BackingField: {r: 0, g: 0, b: 0, a: 1}
+    <Value>k__BackingField: 16384
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 86c8b6b8d70fdfc4384698c7042c8930, type: 3}
+  - <Color>k__BackingField: {r: 0, g: 0.5849056, b: 0.56554097, a: 1}
+    <Value>k__BackingField: 32768
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 5446ac9023e4e164b86f6d9f3dd91c55, type: 3}
+  - <Color>k__BackingField: {r: 0, g: 0.6320754, b: 0.3163379, a: 1}
+    <Value>k__BackingField: 65536
+    <Sprite>k__BackingField: {fileID: 21300000, guid: dcc0c18575b20b540933619ae4ce944e, type: 3}
+  - <Color>k__BackingField: {r: 0.032477558, g: 0.754717, b: 0, a: 1}
+    <Value>k__BackingField: 131072
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 63b0792340a03684c9ecd2db7a9045e5, type: 3}
+  - <Color>k__BackingField: {r: 0.5026747, g: 0.5283019, b: 0, a: 1}
+    <Value>k__BackingField: 262144
+    <Sprite>k__BackingField: {fileID: 21300000, guid: b70499beac89ef64781555529a41dba8, type: 3}
+  - <Color>k__BackingField: {r: 0.509434, g: 0.2734616, b: 0, a: 1}
+    <Value>k__BackingField: 524288
+    <Sprite>k__BackingField: {fileID: 21300000, guid: b9f251d99fc2fd94a91650373227f929, type: 3}
+  - <Color>k__BackingField: {r: 0, g: 0, b: 0, a: 1}
+    <Value>k__BackingField: 1048576
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 737601b608217024bae279c96941f6ec, type: 3}
+  <MaxRandomValue>k__BackingField: 4

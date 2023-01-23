@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84bd04858bac4752b4fce5f7df3d447a, type: 3}
+  m_Name: InputSettings
+  m_EditorClassIdentifier: 
+  <JoystickSensitivity>k__BackingField: 0.1
+  <Joystick>k__BackingField: {fileID: 8135886326569738823, guid: 56fae09712773584fb63896d473a98ee, type: 3}
